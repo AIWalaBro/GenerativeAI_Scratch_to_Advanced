@@ -1,1 +1,5 @@
-pandas
+llama-index
+openai
+pypdf
+python-dotenv
+ipykernel
